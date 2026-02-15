@@ -1,0 +1,14 @@
+{
+  "name": "file-compressor",
+  "version": "1.0.0",
+  "description": "File compressor using Huffman Coding",
+  "license": "ISC",
+  "author": "Aarush Kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./src/index.js",
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
