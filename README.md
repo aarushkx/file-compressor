@@ -41,7 +41,7 @@ Always combine the **two smallest frequencies**:
 #### Step 1:
 
 ```
-(b:1) + (n:2) → (3)
+(b:1) + (n:2) -> (3)
 ```
 
 Tree:
@@ -55,7 +55,7 @@ Tree:
 #### Step 2:
 
 ```
-(*:3) + (a:3) → (6)
+(*:3) + (a:3) -> (6)
 ```
 
 Final Tree:
